@@ -1,2 +1,2 @@
 # Euclid
-![the Euclid game](https://github.com/bdschi/Euclid/blob/Maim/IMG_20240909_202222.jpg?raw=true)
+![the Euclid game](https://github.com/Bdschi/Euclid/blob/main/IMG_20240909_202222.jpg)
